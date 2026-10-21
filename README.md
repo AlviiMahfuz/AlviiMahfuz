@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=MahfuzScripts&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=AlviiMahfuz&color=red)
 
 Skills: HTML / CSS / JS / TypeScript / ECMAScript / BOOTSTRAP / REACT / JSON / NODE.JS / EXPRESS.JS / FIREBASE / MongoDB / MONGOOSE / Java 
 
@@ -16,7 +16,7 @@ Skills: HTML / CSS / JS / TypeScript / ECMAScript / BOOTSTRAP / REACT / JSON / N
 -->
 - 🌱 I’m currently learning Python, Java, C, C++
 
-- 👨‍💻 All of my projects are available at [https://github.com/MahfuzScripts](https://github.com/AlviiMahfuz)
+- 👨‍💻 All of my projects are available at [https://github.com/AlviiMahfuz](https://github.com/AlviiMahfuz)
 
 <!-- - 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)  -->
 
@@ -29,8 +29,8 @@ Skills: HTML / CSS / JS / TypeScript / ECMAScript / BOOTSTRAP / REACT / JSON / N
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com/Mahfuz.Ahammed.fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MahfuzScripts" height="30" width="40" /></a>
-<a href="https://twitter.com/Alvii_Mahfuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MahfuzScripts" height="30" width="40" /></a>
+<a href="https://fb.com/Mahfuz.Ahammed.fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AlviiMahfuz" height="30" width="40" /></a>
+<a href="https://twitter.com/AlviiMahfuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alvii Mahfuz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahfuzahammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 <!--  
 <a href="https://codepen.io/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
@@ -68,7 +68,7 @@ Skills: HTML / CSS / JS / TypeScript / ECMAScript / BOOTSTRAP / REACT / JSON / N
 
 ## Best Repo -
 
-[![AlviiMahfuz](https://github-readme-stats.vercel.app/api/pin/?username=MahfuzScripts&repo=MahfuzScripts&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MahfuzScripts/MahfuzScripts/blob/main/README.md)
+[![AlviiMahfuz](https://github-readme-stats.vercel.app/api/pin/?username=AlviiMahfuz&repo=AlviiMahfuz&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AlviiMahfuz/AlviiMahfuz/blob/main/README.md)
 <!--
 [![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/100_plus_C_Problems)
 [![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/front_end_projects)
